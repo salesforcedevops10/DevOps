@@ -1,5 +1,5 @@
-public with sharing class calculator {
-    public calculator() {
-
+public with sharing class Calculator {
+    public Calculator() {
+        
     }
 }
